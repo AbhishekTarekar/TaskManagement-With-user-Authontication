@@ -1,16 +1,33 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Task Management App
+Overview
 
-Currently, two official plugins are available:
+Task Management App is a full-stack web application that helps users manage their daily tasks efficiently. Users can create, view, update, and delete tasks after logging into the system. The application includes secure authentication with login and logout functionality.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+User Registration
+User Login and Logout
+Secure Authentication
+Create Tasks
+View Tasks
+Update Tasks
+Delete Tasks
+Task Status Management
+Responsive User Interface
+MySQL Database Integration
+Technology Stack
 
-## React Compiler
+Frontend
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React.js
+HTML5
+CSS3
+JavaScript
+Axios
+Backend
+Node.js
+Express.js
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Database
+MySQL
